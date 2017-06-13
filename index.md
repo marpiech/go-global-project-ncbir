@@ -8,8 +8,8 @@ GeneTraps – system analizy wyników sekwencjonowania genomu dedykowany dla med
 ## Krótki opis projektu
 W ramach projektu powstanie system analizy wyników sekwencjonowania genomu człowieka dedykowany dla medycyny precyzyjnej. Celem jest wdrożenie informatycznej platformy, która będzie automatycznie przeszukiwała dostępne źródła informacji genetycznej oraz bazy zawierające funkcjonalne opisy genomu człowieka. Wynikiem przeszukiwania będzie ustrukturyzowana wiedza, na podstawie której opracowane zostaną narzędzia automatycznie generujące klinicznie użyteczne raporty diagnostyczne
 ## Ogłoszenia
-Zapraszamy do współpracy jednostki medyczne i naukowe przy realizacji naszego projektu. W ramach współpracy chcemy wspólnie przetestować skuteczność platformy GeneTraps w diagnostyce chorób i wad genetycznych różnego typu.
-[Zapytanie ofertowe - usługi chmurowe](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)
+Zapraszamy do współpracy jednostki medyczne i naukowe przy realizacji naszego projektu. W ramach współpracy chcemy wspólnie przetestować skuteczność platformy GeneTraps w diagnostyce chorób i wad genetycznych różnego typu.__
+[Zapytanie ofertowe - usługi chmurowe](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)__
 [Oferta pracy - bioinformatyk](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)
 [Oferta pracy - programista Java](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)
 [Rozstrzygnięcie zapytania ofertowego](http://anakin.intelliseq.pl/owncloud/index.php/s/RgaCEKF3Ivfk2yX)
