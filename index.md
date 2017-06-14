@@ -1,30 +1,25 @@
-# POIR.01.01.01-00-0213/15
+![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/04_goglobal_logo_final2.png)  
+  
+![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/fundsflag-pl.png)  
+  
+![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/ncbr_logo_z_czerwonym_napisem.jpg)  
+  
+# GO_GLOBAL
 ## Tytuł projektu
-GeneTraps – system analizy wyników sekwencjonowania genomu dedykowany dla medycyny precyzyjnej
+Strategia wprowadzenia innowacyjnej usługi klinicznej analizy genomu człowieka na rynek USA
 ## Okres trwania projektu
-01.2016 – 12.2019
+11.2016 – 04.2017
 ## Budżet projektu
-2 662 654.37 PLN w tym kwota dofinansowania 2 018 065.14 PLN w ramach Programu Operacyjnego Inteligentny Rozwój
+147 750.00 PLN w tym kwota dofinansowania 124 952.18  PLN
 ## Krótki opis projektu
-W ramach projektu powstanie system analizy wyników sekwencjonowania genomu człowieka dedykowany dla medycyny precyzyjnej. Celem jest wdrożenie informatycznej platformy, która będzie automatycznie przeszukiwała dostępne źródła informacji genetycznej oraz bazy zawierające funkcjonalne opisy genomu człowieka. Wynikiem przeszukiwania będzie ustrukturyzowana wiedza, na podstawie której opracowane zostaną narzędzia automatycznie generujące klinicznie użyteczne raporty diagnostyczne
-## Ogłoszenia
-Zapraszamy do współpracy jednostki medyczne i naukowe przy realizacji naszego projektu. W ramach współpracy chcemy wspólnie przetestować skuteczność platformy GeneTraps w diagnostyce chorób i wad genetycznych różnego typu.  
-[Zapytanie ofertowe - usługi chmurowe](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)  
-[Oferta pracy - bioinformatyk](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)
-[Oferta pracy - programista Java](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)
-[Rozstrzygnięcie zapytania ofertowego](http://anakin.intelliseq.pl/owncloud/index.php/s/RgaCEKF3Ivfk2yX)
-[Oferta 02 - główny programista i projektant systemu](http://anakin.intelliseq.pl/owncloud/index.php/s/I98rDe5fSnwF1xQ)
-[Oferta 03 - kierownik projektu](http://anakin.intelliseq.pl/owncloud/index.php/s/b0JkY2KohsGfmer)
-[Rozstrzygnięcie zapytanie ofertowego 02](http://anakin.intelliseq.pl/owncloud/index.php/s/X1OQsYBQhAYPhDf)
-[Rozstrzygnięcie zapytanie ofertowego 03](http://anakin.intelliseq.pl/owncloud/index.php/s/IFOSLBa124JRxmW)
-[Oferta 04 - główny programista i projektant systemu](http://anakin.intelliseq.pl/owncloud/index.php/s/mlkE5YfiC3snyGQ)
-[Oferta 05 - kierownik projektu](http://anakin.intelliseq.pl/owncloud/index.php/s/niLSseDXCObY5wj)
-[Rozstrzygnięcie oferty 04 - główny programista](http://anakin.intelliseq.pl/owncloud/index.php/s/87stGJouYZxXO0g)
-[Rozstrzygnięcie oferty 05 - kierownik projektu](http://anakin.intelliseq.pl/owncloud/index.php/s/xziunJynlyYc1jt)
-[Oferta pracy - Bioinformatyk II](http://anakin.intelliseq.pl/owncloud/index.php/s/GCG4pPs5rzzHecP)
-[Zapytanie ofertowe 06 - sekwencjonowanie DNA (doc)](http://anakin.intelliseq.pl/owncloud/index.php/s/X8Bg8z4C7ywWHu6)
-[Zapytanie ofertowe 06 - sekwencjonowanie DNA (pdf)](http://anakin.intelliseq.pl/owncloud/index.php/s/rXAjhwhoEkpwdIl)
-[Rozstrzygnięcie zapytania ofertowego 06](http://anakin.intelliseq.pl/owncloud/index.php/s/ZIewmRBfn0gnlAX)
-[Zapytanie ofertowe 07 - walidacja kliniczna](http://anakin.intelliseq.pl/owncloud/index.php/s/gHtMjIh5VcA5v34)
-[Rozstrzygnięcie zapytania ofertowego 07](http://anakin.intelliseq.pl/owncloud/index.php/s/vb8D5nYQopq8W0D)
-[Zapytanie ofertowe 08 - kierownik do spraw klinicznych](http://anakin.intelliseq.pl/owncloud/index.php/s/4yHOOJXU0beP4zi)
+Cel projektu to opracowanie i weryfikacja strategii wprowadzenia na amerykański rynek usług analizy genomu człowieka. Firma opracowała innowacyjną technologię informatycznej analizy odczytów pełnej sekwencji genomu. W ramach projektu organizowane są spotkania biznesowe z partnerami naukowo-biznesowymi, klientami i potencjalnymi inwestorami operującymi na największym światowym rynku usług genetycznych. Opracowana zostanie specyfikacja wymagań do spełnienia w celu dopuszczenia usługi na rynek USA. Realizacja projektu zakłada rozpoczęcie współpracy intelliseq z jednostkami medycznymi w USA chcącymi wprowadzić do swojej oferty badania diagnostyczne w skali genomu, ośrodkami prowadzącymi prace B+R w zakresie genomiki obliczeniowej i inwestorami zainteresowanymi rozwojem bioinformatycznych metod analizy genomu. Działania w projekcie będą wspierane przez udział w programie akceleracyjnym US-Poland Innovation HUB, organizowanym przez US-Polish Trade Council, partnera NCBR w ramach GO_GLOBAL.PL
+#  
+## Project
+Development of US market entry strategy for an innovative service of human genome analysis and clinical interpretation
+## Project’s duration
+11.2016 – 04.2017
+## Project’s budget
+147 750.00 PLN including co-financed 124 952.18  PLN
+## Project’s summary
+The aim of the project is to develop and verify the US market strategy for launching novel human genome sequencing service. Our company has developed the innovative technology for bioinformatic analysis and interpretation of the whole genome sequence. Specialized medical services was introduced into clinics and diagnostic laboratories. Within the project, business meetings will be organized with potential business and scientific partners, clients and investors from the largest genetic services market worldwide. We will evaluate and analyze the FDA requirements for introducing the new genetic service to the US market. The project will lead to collaborations between the intelliseq and US medical units looking for new offers in the whole genome diagnostic field, R&D centers working in the field of genome informatics and investors interested in the development of bioinformatic methods of the human genomic analysis. Activities in the project will be supported by participating in the acceleration program US-Poland Innovation HUB, organized by the US-Polish Trade Council, NCBR partner within GO_GLOBAL.PL.
+
