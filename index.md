@@ -1,4 +1,6 @@
 ![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/04_goglobal_logo_final2.png)  
+
+![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/image002.jpg)  
   
 ![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/fundsflag-pl.png)  
   
