@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/04_goglobal_logo_final2.png)  
+![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/04_goglobal_logo_final2.png)  
   
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/fundsflag-pl.png)  
+![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/fundsflag-pl.png)  
   
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/ncbr_logo_z_czerwonym_napisem.jpg)  
+![](https://raw.githubusercontent.com/marpiech/go-global-project-ncbir/master/ncbr_logo_z_czerwonym_napisem.jpg)  
   
 # GO_GLOBAL
 ## Tytuł projektu
